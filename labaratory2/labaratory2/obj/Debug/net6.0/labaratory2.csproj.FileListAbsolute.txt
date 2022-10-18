@@ -1,0 +1,15 @@
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\bin\Debug\net6.0\labaratory2.exe
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\bin\Debug\net6.0\labaratory2.deps.json
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\bin\Debug\net6.0\labaratory2.runtimeconfig.json
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\bin\Debug\net6.0\labaratory2.dll
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\bin\Debug\net6.0\labaratory2.pdb
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.csproj.AssemblyReference.cache
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.AssemblyInfoInputs.cache
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.AssemblyInfo.cs
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.csproj.CoreCompileInputs.cache
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.dll
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\refint\labaratory2.dll
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.pdb
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\labaratory2.genruntimeconfig.cache
+D:\Проекти з Антосяком\Nastya\labaratory2\labaratory2\obj\Debug\net6.0\ref\labaratory2.dll
