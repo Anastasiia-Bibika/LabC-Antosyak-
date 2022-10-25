@@ -1,0 +1,15 @@
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.exe
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.deps.json
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.runtimeconfig.json
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.dll
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\bin\Debug\net6.0\laboratory3.pdb
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.csproj.AssemblyReference.cache
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.AssemblyInfoInputs.cache
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.AssemblyInfo.cs
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.csproj.CoreCompileInputs.cache
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.dll
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\refint\laboratory3.dll
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.pdb
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\laboratory3.genruntimeconfig.cache
+D:\Проекти з Антосяком\Nastya\laboratory3\laboratory3\obj\Debug\net6.0\ref\laboratory3.dll
